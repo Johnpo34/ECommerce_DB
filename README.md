@@ -5,6 +5,3 @@ This application is set up for some to track a store database. One where someone
 # Github URL
 
 # Walkthrough video URL
-
-
-# screenshot
