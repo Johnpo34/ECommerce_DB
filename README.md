@@ -5,3 +5,4 @@ This application is set up for some to track a store database. One where someone
 # Github URL
 https://github.com/Johnpo34/ECommerce_DB
 # Walkthrough video URL
+https://drive.google.com/file/d/1RW8bTnNH-W02j-YoqKlVydswbN1zc31x/view
